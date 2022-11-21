@@ -1,0 +1,32 @@
+{
+  "name": "swiper-animated-view",
+  "version": "1.0.0",
+  "description": "A swiper page with beautiful animation and highly customizable",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadeghesfahani/swiper-animated-view.git"
+  },
+  "keywords": [
+    "swiper",
+    "home",
+    "page",
+    "animation",
+    "geusture"
+  ],
+  "author": "sina sadeghesfahani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadeghesfahani/swiper-animated-view/issues"
+  },
+  "homepage": "https://github.com/sadeghesfahani/swiper-animated-view#readme",
+  "peerDependencies": {
+    "react": "18.0.0",
+    "react-native": "0.69.6",
+    "react-native-gesture-handler": "~2.5.0",
+    "react-native-reanimated": "~2.9.1"
+  }
+}
